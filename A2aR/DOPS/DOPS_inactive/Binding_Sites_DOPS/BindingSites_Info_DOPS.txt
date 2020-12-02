@@ -1,0 +1,257 @@
+
+# Occupancy: percentage of frames where lipid is in contact with the given residue (0-100%);
+# Duration/Residence Time: average length of a continuous interaction of lipid with the given residue (in unit of us);
+# Koff: Koff of lipid with the given residue/binding site (in unit of (us)^(-1));
+# Pos. Charge: ARG, HIS, LYS;
+# Neg. Charge: ASP, GLU;
+# Polar: SER, THR, ASN, GLN;
+# Hydrophobic: ALA, VAL, ILE, LEU, MET, PHE, TYR, TRP;
+# Special: CYS, SEC, GLY, PRO.
+        
+# Binding site 0
+ BS Residence Time:       0.204 us      R squared:  0.9996
+ BS koff:                 4.911
+ BS koff Bootstrap:       5.493 +-      0.180
+ BS Duration:             0.086 us   
+ BS Lipid Occupancy:     59.464 %
+ BS Lipid Count:          1.366
+ BS Surface Area:         7.816 nm^2 +-      0.484
+ Pos. Charge:        1/13      
+ Neg. Charge:        0/13      
+ Polar:              5/13      
+ Hydrophobic:        5/13      
+ Special:            2/13      
+ Residue Duration Duration std  Res. Time R squared Occupancy Occu. std  Lipid Count L. C. std    Koff   
+  28CYS    0.014      0.023       0.039     0.9987    7.470     1.430       1.009      0.010    25.6384  
+  31VAL    0.065      0.050       0.071     0.9999    20.426    3.295       1.034      0.015    14.1686  
+  32TRP    0.080      0.096       0.124     1.0000    37.834    4.641       1.139      0.035     8.0632  
+  35SER    0.047      0.044       0.054     1.0000    22.327    3.392       1.051      0.020    18.5309  
+  38GLN    0.090      0.097       0.106     0.9999    26.994    3.878       1.059      0.024     9.4065  
+  39ASN    0.045      0.034       0.114     0.9999    12.379    2.565       1.010      0.007     8.7864  
+  40VAL    0.034      0.023       0.095     0.9999    11.287    2.150       1.017      0.010    10.5655  
+  42ASN    0.027      0.017       0.111     0.9999    5.895     1.600       1.000      0.002     9.0246  
+  43TYR    0.109      0.129       0.185     0.9998    31.395    4.359       1.088      0.026     5.3936  
+  46VAL    0.054      0.046       0.044     0.9987    14.537    2.905       1.003      0.003    22.6044  
+  47SER    0.001      0.005       0.001     1.0000    0.746     0.326       1.000      0.000   1370.4495 
+ 118GLY    0.074      0.078       0.106     0.9999    43.285    3.670       1.188      0.039     9.4236  
+ 122LYS    0.083      0.113       0.188     0.9996    44.591    4.611       1.197      0.049     5.3271  
+
+
+# Binding site 1
+ BS Residence Time:       0.187 us      R squared:  0.9999
+ BS koff:                 5.348
+ BS koff Bootstrap:       5.489 +-      0.091
+ BS Duration:             0.057 us   
+ BS Lipid Occupancy:     70.470 %
+ BS Lipid Count:          1.566
+ BS Surface Area:         8.469 nm^2 +-      0.393
+ Pos. Charge:        2/9       
+ Neg. Charge:        0/9       
+ Polar:              3/9       
+ Hydrophobic:        4/9       
+ Special:            0/9       
+ Residue Duration Duration std  Res. Time R squared Occupancy Occu. std  Lipid Count L. C. std    Koff   
+  29TRP    0.041      0.032       0.058     1.0000    28.675    3.939       1.122      0.040    17.1009  
+  33LEU    0.038      0.030       0.103     1.0000    27.263    3.610       1.105      0.034     9.6997  
+  34ASN    0.028      0.014       0.032     1.0000    15.856    2.343       1.047      0.021    31.3502  
+ 298THR    0.015      0.009       0.007     1.0000    17.188    2.769       1.028      0.015    148.5129 
+ 301LYS    0.034      0.026       0.040     1.0000    34.175    3.761       1.124      0.023    25.2810  
+ 302ILE    0.031      0.022       0.060     0.9999    18.090    1.608       1.063      0.014    16.5615  
+ 303ILE    0.030      0.018       0.033     1.0000    27.902    2.951       1.101      0.019    29.9436  
+ 304ARG    0.044      0.050       0.178     1.0000    50.822    5.193       1.264      0.036     5.6061  
+ 305SER    0.041      0.039       0.079     0.9999    35.751    3.949       1.159      0.023    12.7102  
+
+
+# Binding site 2
+ BS Residence Time:       0.064 us      R squared:  1.0000
+ BS koff:                15.742
+ BS koff Bootstrap:      15.769 +-      0.041
+ BS Duration:             0.060 us   
+ BS Lipid Occupancy:     69.229 %
+ BS Lipid Count:          1.501
+ BS Surface Area:         7.790 nm^2 +-      0.598
+ Pos. Charge:        4/9       
+ Neg. Charge:        1/9       
+ Polar:              1/9       
+ Hydrophobic:        3/9       
+ Special:            0/9       
+ Residue Duration Duration std  Res. Time R squared Occupancy Occu. std  Lipid Count L. C. std    Koff   
+ 103TYR    0.046      0.037       0.090     1.0000    33.931    2.861       1.087      0.025    11.1505  
+ 107ARG    0.053      0.045       0.053     1.0000    44.675    3.200       1.166      0.033    18.7337  
+ 199ARG    0.048      0.039       0.045     1.0000    43.852    2.061       1.170      0.032    22.3238  
+ 203ALA    0.039      0.027       0.072     1.0000    40.989    2.158       1.174      0.025    13.9229  
+ 206ARG    0.048      0.037       0.038     1.0000    58.151    2.395       1.333      0.039    26.1545  
+ 207GLN    0.040      0.029       0.071     1.0000    37.710    2.642       1.154      0.025    14.0969  
+ 208LEU    0.037      0.026       0.031     1.0000    27.311    2.169       1.065      0.021    31.8093  
+ 209LYS    0.030      0.019       0.028     1.0000    21.565    2.162       1.077      0.021    35.1932  
+ 219GLU    0.028      0.014       0.020     0.9999    18.541    2.473       1.080      0.025    50.8287  
+
+
+# Binding site 3
+ BS Residence Time:       0.049 us      R squared:  1.0000
+ BS koff:                20.604
+ BS koff Bootstrap:      16.870 +-      0.358
+ BS Duration:             0.049 us   
+ BS Lipid Occupancy:     45.774 %
+ BS Lipid Count:          1.209
+ BS Surface Area:         4.782 nm^2 +-      0.644
+ Pos. Charge:        0/7       
+ Neg. Charge:        0/7       
+ Polar:              1/7       
+ Hydrophobic:        5/7       
+ Special:            1/7       
+ Residue Duration Duration std  Res. Time R squared Occupancy Occu. std  Lipid Count L. C. std    Koff   
+ 104ILE    0.025      0.011       0.014     1.0000    12.514    2.021       1.040      0.020    71.3870  
+ 108ILE    0.040      0.032       0.038     1.0000    33.187    3.358       1.103      0.026    26.2445  
+ 109PRO    0.019      0.014       0.019     0.9992    10.321    1.620       1.022      0.015    51.4881  
+ 110LEU    0.032      0.020       0.066     1.0000    20.444    2.391       1.067      0.020    15.1161  
+ 112TYR    0.006      0.015       0.033     0.9979    17.613    2.321       1.049      0.016    30.5723  
+ 210GLN    0.031      0.021       0.029     1.0000    21.476    3.045       1.091      0.027    34.2625  
+ 211MET    0.019      0.013       0.050     1.0000    5.864     0.948       1.025      0.020    20.0222  
+
+
+# Binding site 4
+ BS Residence Time:       0.174 us      R squared:  0.9998
+ BS koff:                 5.739
+ BS koff Bootstrap:       5.761 +-      0.088
+ BS Duration:             0.077 us   
+ BS Lipid Occupancy:     73.956 %
+ BS Lipid Count:          1.629
+ BS Surface Area:         7.307 nm^2 +-      0.332
+ Pos. Charge:        2/9       
+ Neg. Charge:        0/9       
+ Polar:              3/9       
+ Hydrophobic:        2/9       
+ Special:            2/9       
+ Residue Duration Duration std  Res. Time R squared Occupancy Occu. std  Lipid Count L. C. std    Koff   
+ 111ARG    0.064      0.080       0.126     0.9999    46.805    4.283       1.203      0.031     7.9401  
+ 113ASN    0.053      0.042       0.051     0.9998    27.964    3.851       1.067      0.013    19.4766  
+ 114GLY    0.076      0.080       0.095     1.0000    39.821    4.334       1.142      0.024    10.5494  
+ 115LEU    0.083      0.092       0.120     0.9999    37.594    4.643       1.134      0.022     8.3426  
+ 116VAL    0.060      0.061       0.076     0.9992    27.769    3.592       1.072      0.015    13.1895  
+ 117THR    0.059      0.053       0.062     1.0000    43.383    4.005       1.181      0.027    16.0190  
+ 119THR    0.062      0.058       0.263     1.0000    52.314    3.651       1.282      0.048     3.7968  
+ 120ARG    0.067      0.065       0.078     1.0000    51.465    4.084       1.257      0.035    12.7528  
+ 123GLY    0.028      0.015       0.036     1.0000    13.949    2.300       1.040      0.015    28.0384  
+
+
+# Binding site 5
+ BS Residence Time:       0.211 us      R squared:  1.0000
+ BS koff:                 4.736
+ BS koff Bootstrap:       5.145 +-      0.110
+ BS Duration:             0.089 us   
+ BS Lipid Occupancy:     69.957 %
+ BS Lipid Count:          1.456
+ BS Surface Area:         5.709 nm^2 +-      0.464
+ Pos. Charge:        2/10      
+ Neg. Charge:        0/10      
+ Polar:              1/10      
+ Hydrophobic:        7/10      
+ Special:            0/10      
+ Residue Duration Duration std  Res. Time R squared Occupancy Occu. std  Lipid Count L. C. std    Koff   
+ 197TYR    0.014      0.015       0.020     0.9999    5.791     1.472       1.058      0.038    51.2139  
+ 198LEU    0.016      0.008       0.001     1.0000    11.775    1.675       1.030      0.015   1370.4495 
+ 230HIS    0.130      0.156       0.182     1.0000    53.004    4.872       1.207      0.034     5.4887  
+ 231ALA    0.032      0.021       0.022     0.9999    11.013    2.368       1.007      0.008    45.1483  
+ 234SER    0.089      0.082       0.084     1.0000    31.057    4.584       1.037      0.010    11.8867  
+ 236ALA    0.011      0.017       0.024     0.9997    11.986    2.564       1.005      0.005    41.0975  
+ 237ILE    0.039      0.029       0.030     0.9999    17.464    3.509       1.012      0.007    33.0108  
+ 287ILE    0.030      0.018       0.019     1.0000    14.360    2.801       1.033      0.016    52.4863  
+ 291ARG    0.081      0.111       0.124     0.9909    61.215    4.645       1.313      0.042     8.0732  
+ 292ILE    0.039      0.032       0.054     0.9999    28.426    3.456       1.076      0.018    18.6141  
+
+
+# Binding site 6
+ BS Residence Time:       0.195 us      R squared:  1.0000
+ BS koff:                 5.137
+ BS koff Bootstrap:       5.165 +-      0.042
+ BS Duration:             0.091 us   
+ BS Lipid Occupancy:     77.536 %
+ BS Lipid Count:          1.645
+ BS Surface Area:         8.103 nm^2 +-      0.676
+ Pos. Charge:        4/11      
+ Neg. Charge:        0/11      
+ Polar:              1/11      
+ Hydrophobic:        6/11      
+ Special:            0/11      
+ Residue Duration Duration std  Res. Time R squared Occupancy Occu. std  Lipid Count L. C. std    Koff   
+ 201PHE    0.063      0.052       0.068     1.0000    44.931    4.109       1.180      0.033    14.7682  
+ 202LEU    0.038      0.026       0.041     1.0000    47.007    2.525       1.221      0.025    24.1521  
+ 204ALA    0.052      0.038       0.050     0.9999    36.144    2.706       1.134      0.022    20.1391  
+ 205ARG    0.057      0.054       0.070     1.0000    58.751    3.532       1.335      0.036    14.3169  
+ 220ARG    0.035      0.023       0.024     1.0000    40.172    3.548       1.194      0.030    41.2502  
+ 221ALA    0.019      0.010       0.013     1.0000    6.322     1.430       1.034      0.018    79.0888  
+ 222ARG    0.057      0.053       0.065     1.0000    47.176    3.914       1.207      0.039    15.2902  
+ 225LEU    0.030      0.024       0.031     1.0000    19.476    2.005       1.054      0.020    32.1213  
+ 226GLN    0.094      0.099       0.116     1.0000    50.755    4.829       1.174      0.038     8.5901  
+ 229VAL    0.038      0.026       0.063     1.0000    24.045    2.584       1.059      0.021    15.8674  
+ 233LYS    0.116      0.147       0.195     1.0000    55.269    4.714       1.211      0.039     5.1364  
+
+
+# Binding site 7
+ BS Residence Time:       0.013 us      R squared:  0.9999
+ BS koff:                74.607
+ BS koff Bootstrap:      90.211 +-      0.315
+ BS Duration:             0.017 us   
+ BS Lipid Occupancy:      5.531 %
+ BS Lipid Count:          1.046
+ BS Surface Area:         5.299 nm^2 +-      0.633
+ Pos. Charge:        0/7       
+ Neg. Charge:        1/7       
+ Polar:              2/7       
+ Hydrophobic:        1/7       
+ Special:            3/7       
+ Residue Duration Duration std  Res. Time R squared Occupancy Occu. std  Lipid Count L. C. std    Koff   
+ 212GLU    0.004      0.010       0.014     1.0000    1.930     0.783       1.011      0.019    73.3019  
+ 213SER    0.012      0.013       0.016     0.9999    2.600     0.576       1.024      0.022    63.4807  
+ 214GLN    0.006      0.009       0.001     1.0000    0.469     0.383       1.028      0.071   1370.4495 
+ 215PRO    0.007      0.010       0.001     1.0000    0.722     0.305       1.036      0.062   1370.4495 
+ 216LEU    0.002      0.006       0.001     1.0000    0.173     0.115       0.986      0.268   1370.4495 
+ 217PRO    0.001      0.005       0.001     1.0000    0.229     0.131       0.903      0.325   1370.4495 
+ 218GLY    0.001      0.005       0.001     1.0000    0.953     0.301       1.004      0.016   1370.4495 
+
+
+# Binding site 8
+ BS Residence Time:       0.033 us      R squared:  1.0000
+ BS koff:                30.700
+ BS koff Bootstrap:      25.137 +-      0.427
+ BS Duration:             0.042 us   
+ BS Lipid Occupancy:     28.608 %
+ BS Lipid Count:          1.093
+ BS Surface Area:         2.522 nm^2 +-      0.283
+ Pos. Charge:        1/3       
+ Neg. Charge:        0/3       
+ Polar:              2/3       
+ Hydrophobic:        0/3       
+ Special:            0/3       
+ Residue Duration Duration std  Res. Time R squared Occupancy Occu. std  Lipid Count L. C. std    Koff   
+ 223SER    0.029      0.017       0.030     1.0000    18.974    3.042       1.066      0.022    33.5857  
+ 224THR    0.001      0.003       0.001     1.0000    3.892     0.998       1.010      0.011   1370.4495 
+ 227LYS    0.042      0.030       0.034     0.9998    24.600    3.142       1.068      0.020    29.4017  
+
+
+# Binding site 9
+ BS Residence Time:       0.168 us      R squared:  0.9997
+ BS koff:                 5.959
+ BS koff Bootstrap:       5.868 +-      0.100
+ BS Duration:             0.082 us   
+ BS Lipid Occupancy:     75.377 %
+ BS Lipid Count:          1.576
+ BS Surface Area:         8.821 nm^2 +-      0.502
+ Pos. Charge:        3/9       
+ Neg. Charge:        1/9       
+ Polar:              1/9       
+ Hydrophobic:        4/9       
+ Special:            0/9       
+ Residue Duration Duration std  Res. Time R squared Occupancy Occu. std  Lipid Count L. C. std    Koff   
+ 286PHE    0.026      0.014       0.025     1.0000    13.747    2.971       1.057      0.017    40.2315  
+ 289ALA    0.039      0.026       0.033     0.9997    26.974    4.157       1.051      0.010    30.4684  
+ 290TYR    0.060      0.054       0.060     1.0000    60.738    5.249       1.314      0.045    16.5348  
+ 293ARG    0.043      0.038       0.047     1.0000    40.041    4.647       1.147      0.020    21.1422  
+ 294GLU    0.024      0.017       0.023     0.9997    12.867    2.382       1.016      0.010    43.7414  
+ 296ARG    0.071      0.085       0.112     0.9999    52.367    5.696       1.212      0.034     8.9102  
+ 297GLN    0.069      0.066       0.072     1.0000    36.973    5.285       1.089      0.020    13.8520  
+ 299PHE    0.044      0.051       0.101     0.9994    25.921    4.067       1.035      0.009     9.8562  
+ 300ARG    0.074      0.093       0.094     0.9939    54.430    6.354       1.232      0.043    10.6297  
+
+
